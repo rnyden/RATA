@@ -30,7 +30,7 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover; */
-  background-color: black;
+  background-color: #FFA8DC;
 }
 
 /* NAV BAR STYLE PROPERTIES */
@@ -43,7 +43,7 @@ li:hover {
 
 /*By default, when one hovers over the text in the nav bar, the font-color is temporarily changed with a shade of yellow. You can change the color here if you wish.*/
 .nav-item a:hover { 
-  color: rgba(214, 218, 21, 0.39) !important; 
+  color: #FFA8DC !important; 
 
 }
 
